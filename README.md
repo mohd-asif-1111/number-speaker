@@ -1,6 +1,6 @@
 # Number Speaker
 
-This Python project converts numbers into words and plays the corresponding audion files using Pygame.
+This Python project converts numbers into words and plays the corresponding audio files using Pygame.
 
 ## Features
 - Converts numbers up to billions
